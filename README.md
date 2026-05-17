@@ -3,7 +3,6 @@
 ## 👤 Student Information
 * **Name:** Cuestas, Michael Angelou
 * **Student Number:** TUPM-25-0499
-* **Course:** Computer Programming (Academic Year 2026)
 * **Assigned Pillar:** Pillar 9 — HVAC & Building Systems
 * **Assigned Topic:** HVA-01 — Chiller Plant COP Variance
 
