@@ -1,8 +1,8 @@
 # Engineering Data Systems Pipeline (EDS) — Topic HVA-01
 
 ## 👤 Student Information
-* **Name:** [Your Surname, Your Given Name]
-* **Student Number:** [Your Student Number]
+* **Name:** Cuestas, Michael Angelou
+* **Student Number:** TUPM-25-0499
 * **Course:** Computer Programming (Academic Year 2026)
 * **Assigned Pillar:** Pillar 9 — HVAC & Building Systems
 * **Assigned Topic:** HVA-01 — Chiller Plant COP Variance
@@ -19,7 +19,7 @@ To strictly comply with the syllabus **"No Sharing" Rule**, this implementation 
 ## 🗂️ Repository Structure
 The repository is strictly structured according to the course engineering standards:
 ```text
-EDS_[YourStudentNumber]_[YourSurname]/
+EDS_25-0499_CUESTAS/
 ├── data/
 │   ├── dataset_original.csv      # Raw downloaded Kaggle HVAC data
 │   └── dataset_cleaned.csv       # Mathematically unique filtered data slice
